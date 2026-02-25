@@ -36,3 +36,11 @@ Installation & Déploiement
 -  Utilisateur  : resto/admin
 - Administrateur workspace : retoadmin/admin
 -  Suivez le guide prise en main (Les images peuvent être différentes)
+### Tableau de bord
+![Dashboard](images/dashboard.png)
+
+### Gestion des produits
+![Produits](images/products.png)
+
+### Prise de commande
+![Commande](images/sales.png)
